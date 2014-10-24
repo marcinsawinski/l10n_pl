@@ -8,13 +8,11 @@
 
 
 require 'spree/product_filters'
-require 'open_food_network/searcher'
 
 Spree.config do |config|
   config.shipping_instructions = true
   config.checkout_zone = 'United Kingdom'
   config.address_requires_state = true
-  config.searcher_class = OpenFoodNetwork::Searcher
   config.currency = 'GBP'
   country = Spree::Country.find_by_name('United Kingdom')
   config.default_country_id = country.id if country.present?
@@ -28,6 +26,12 @@ Spree.config do |config|
   #config.override_actionmailer_config = false
 end
 
+
+# TODO Work out why this is necessary
+# Seems like classes within OFN module become 'uninitialized' when server reloads
+# unless the empty module is explicity 'registered' here. Something to do with autoloading?
+module OpenFoodNetwork
+end
 
 # Add calculators category for enterprise fees
 module Spree
@@ -43,7 +47,7 @@ module Spree
 end
 
 # Forcing spree to always allow SSL connections
-# Since we are using config.force_ssl = true 
+# Since we are using config.force_ssl = true
 # Without this we get a redirect loop: see https://groups.google.com/forum/#!topic/spree-user/NwpqGxJ4klk
 SslRequirement.module_eval do
   protected
