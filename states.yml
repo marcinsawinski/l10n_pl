@@ -1,1046 +1,837 @@
-#UK counties - there are no states and no-one uses scotland or england as a state.
-states_101:
-  name: Aberdeen City
-  country_id: "213"
-  id: "101"
+---
+- name: Aberdeen City
+  country_id: '213'
+  id: '101'
   abbr: AbC
-states_102:
-  name: Aberdeenshire
-  country_id: "213"
-  id: "102"
+- name: Aberdeenshire
+  country_id: '213'
+  id: '102'
   abbr: AbS
-states_103:
-  name: Angus
-  country_id: "213"
-  id: "103"
+- name: Angus
+  country_id: '213'
+  id: '103'
   abbr: Ang
-states_104:
-  name: Antrim
-  country_id: "213"
-  id: "104"
+- name: Antrim
+  country_id: '213'
+  id: '104'
   abbr: Ant
-states_105:
-  name: Ards
-  country_id: "213"
-  id: "105"
+- name: Ards
+  country_id: '213'
+  id: '105'
   abbr: Ard
-states_106:
-  name: Argyll and Bute
-  country_id: "213"
-  id: "106"
+- name: Argyll and Bute
+  country_id: '213'
+  id: '106'
   abbr: Arg
-states_107:
-  name: Ballymena
-  country_id: "213"
-  id: "107"
+- name: Ballymena
+  country_id: '213'
+  id: '107'
   abbr: Bme
-states_108:
-  name: Ballymoney
-  country_id: "213"
-  id: "108"
+- name: Ballymoney
+  country_id: '213'
+  id: '108'
   abbr: Bmy
-states_109:
-  name: Banbridge
-  country_id: "213"
-  id: "109"
+- name: Banbridge
+  country_id: '213'
+  id: '109'
   abbr: Ban
-states_110:
-  name: Barnsley
-  country_id: "213"
-  id: "110"
+- name: Barnsley
+  country_id: '213'
+  id: '110'
   abbr: Bar
-states_111:
-  name: Bath and North East Somerset
-  country_id: "213"
-  id: "111"
+- name: Bath and North East Somerset
+  country_id: '213'
+  id: '111'
   abbr: Bat
-states_112:
-  name: Bedford Borough
-  country_id: "213"
-  id: "112"
+- name: Bedford Borough
+  country_id: '213'
+  id: '112'
   abbr: Bed
-states_113:
-  name: Belfast
-  country_id: "213"
-  id: "113"
+- name: Belfast
+  country_id: '213'
+  id: '113'
   abbr: Bel
-states_114:
-  name: Birmingham
-  country_id: "213"
-  id: "114"
+- name: Birmingham
+  country_id: '213'
+  id: '114'
   abbr: Bir
-states_115:
-  name: Blackburn with Darwen
-  country_id: "213"
-  id: "115"
+- name: Blackburn with Darwen
+  country_id: '213'
+  id: '115'
   abbr: BwD
-states_116:
-  name: Blackpool
-  country_id: "213"
-  id: "116"
+- name: Blackpool
+  country_id: '213'
+  id: '116'
   abbr: Bla
-states_117:
-  name: Blaenau Gwent
-  country_id: "213"
-  id: "117"
+- name: Blaenau Gwent
+  country_id: '213'
+  id: '117'
   abbr: BGw
-states_118:
-  name: Bolton
-  country_id: "213"
-  id: "118"
+- name: Bolton
+  country_id: '213'
+  id: '118'
   abbr: Bol
-states_119:
-  name: Bournemouth
-  country_id: "213"
-  id: "119"
+- name: Bournemouth
+  country_id: '213'
+  id: '119'
   abbr: Bou
-states_120:
-  name: Bracknell Forest
-  country_id: "213"
-  id: "120"
+- name: Bracknell Forest
+  country_id: '213'
+  id: '120'
   abbr: Bra
-states_121:
-  name: Bradford
-  country_id: "213"
-  id: "121"
+- name: Bradford
+  country_id: '213'
+  id: '121'
   abbr: Bra
-states_122:
-  name: Bridgend
-  country_id: "213"
-  id: "122"
+- name: Bridgend
+  country_id: '213'
+  id: '122'
   abbr: Bri
-states_123:
-  name: Brighton and Hove
-  country_id: "213"
-  id: "123"
+- name: Brighton and Hove
+  country_id: '213'
+  id: '123'
   abbr: Bri
-states_124:
-  name: Buckingham
-  country_id: "213"
-  id: "124"
+- name: Buckingham
+  country_id: '213'
+  id: '124'
   abbr: Buc
-states_125:
-  name: Buckinghamshire
-  country_id: "213"
-  id: "125"
+- name: Buckinghamshire
+  country_id: '213'
+  id: '125'
   abbr: Buc
-states_126:
-  name: Bury
-  country_id: "213"
-  id: "126"
+- name: Bury
+  country_id: '213'
+  id: '126'
   abbr: Bur
-states_127:
-  name: Caerphilly
-  country_id: "213"
-  id: "127"
+- name: Caerphilly
+  country_id: '213'
+  id: '127'
   abbr: Cae
-states_128:
-  name: Calderdale
-  country_id: "213"
-  id: "128"
+- name: Calderdale
+  country_id: '213'
+  id: '128'
   abbr: Cal
-states_129:
-  name: Cambridgeshire
-  country_id: "213"
-  id: "129"
+- name: Cambridgeshire
+  country_id: '213'
+  id: '129'
   abbr: Cam
-states_130:
-  name: Cardiff
-  country_id: "213"
-  id: "130"
+- name: Cardiff
+  country_id: '213'
+  id: '130'
   abbr: Car
-states_131:
-  name: Carmarthenshire
-  country_id: "213"
-  id: "131"
+- name: Carmarthenshire
+  country_id: '213'
+  id: '131'
   abbr: Cms
-states_132:
-  name: Carrickfergus
-  country_id: "213"
-  id: "132"
+- name: Carrickfergus
+  country_id: '213'
+  id: '132'
   abbr: Cfg
-states_133:
-  name: Castlereagh
-  country_id: "213"
-  id: "133"
+- name: Castlereagh
+  country_id: '213'
+  id: '133'
   abbr: Cas
-states_134:
-  name: Central Bedfordshire
-  country_id: "213"
-  id: "134"
+- name: Central Bedfordshire
+  country_id: '213'
+  id: '134'
   abbr: Cen
-states_135:
-  name: Ceredigion
-  country_id: "213"
-  id: "135"
+- name: Ceredigion
+  country_id: '213'
+  id: '135'
   abbr: Cer
-states_136:
-  name: Cheshire East
-  country_id: "213"
-  id: "136"
+- name: Cheshire East
+  country_id: '213'
+  id: '136'
   abbr: ChE
-states_137:
-  name: Cheshire West and Chester
-  country_id: "213"
-  id: "137"
+- name: Cheshire West and Chester
+  country_id: '213'
+  id: '137'
   abbr: CWC
-states_138:
-  name: City of Bristol
-  country_id: "213"
-  id: "138"
+- name: City of Bristol
+  country_id: '213'
+  id: '138'
   abbr: CBr
-states_139:
-  name: City of Edinburgh
-  country_id: "213"
-  id: "139"
+- name: City of Edinburgh
+  country_id: '213'
+  id: '139'
   abbr: CEd
-states_140:
-  name: City of Kingston-upon-Hull
-  country_id: "213"
-  id: "140"
+- name: City of Kingston-upon-Hull
+  country_id: '213'
+  id: '140'
   abbr: CKH
-states_141:
-  name: City of London
-  country_id: "213"
-  id: "141"
+- name: City of London
+  country_id: '213'
+  id: '141'
   abbr: CLn
-states_142:
-  name: Clackmannanshire
-  country_id: "213"
-  id: "142"
+- name: Clackmannanshire
+  country_id: '213'
+  id: '142'
   abbr: Cla
-states_143:
-  name: Coleraine
-  country_id: "213"
-  id: "143"
+- name: Coleraine
+  country_id: '213'
+  id: '143'
   abbr: Col
-states_144:
-  name: Conwy
-  country_id: "213"
-  id: "144"
+- name: Conwy
+  country_id: '213'
+  id: '144'
   abbr: Con
-states_145:
-  name: Cookstown
-  country_id: "213"
-  id: "145"
+- name: Cookstown
+  country_id: '213'
+  id: '145'
   abbr: Coo
-states_146:
-  name: Cornwall
-  country_id: "213"
-  id: "146"
+- name: Cornwall
+  country_id: '213'
+  id: '146'
   abbr: Cor
-states_147:
-  name: County Armagh
-  country_id: "213"
-  id: "147"
+- name: County Armagh
+  country_id: '213'
+  id: '147'
   abbr: CAr
-states_148:
-  name: County Durham
-  country_id: "213"
-  id: "148"
+- name: County Durham
+  country_id: '213'
+  id: '148'
   abbr: CDu
-states_149:
-  name: County Fermanagh
-  country_id: "213"
-  id: "149"
+- name: County Fermanagh
+  country_id: '213'
+  id: '149'
   abbr: CFe
-states_150:
-  name: County of Herefordshire
-  country_id: "213"
-  id: "150"
+- name: County of Herefordshire
+  country_id: '213'
+  id: '150'
   abbr: CHe
-states_151:
-  name: Coventry
-  country_id: "213"
-  id: "151"
+- name: Coventry
+  country_id: '213'
+  id: '151'
   abbr: Cov
-states_152:
-  name: Craigavon
-  country_id: "213"
-  id: "152"
+- name: Craigavon
+  country_id: '213'
+  id: '152'
   abbr: Cra
-states_153:
-  name: Cumbria
-  country_id: "213"
-  id: "153"
+- name: Cumbria
+  country_id: '213'
+  id: '153'
   abbr: Cum
-states_154:
-  name: Darlington
-  country_id: "213"
-  id: "154"
+- name: Darlington
+  country_id: '213'
+  id: '154'
   abbr: Dar
-states_155:
-  name: Denbighshire
-  country_id: "213"
-  id: "155"
+- name: Denbighshire
+  country_id: '213'
+  id: '155'
   abbr: Den
-states_156:
-  name: Derby
-  country_id: "213"
-  id: "156"
+- name: Derby
+  country_id: '213'
+  id: '156'
   abbr: Der
-states_157:
-  name: Derbyshire
-  country_id: "213"
-  id: "157"
+- name: Derbyshire
+  country_id: '213'
+  id: '157'
   abbr: Drs
-states_158:
-  name: Derry
-  country_id: "213"
-  id: "158"
+- name: Derry
+  country_id: '213'
+  id: '158'
   abbr: Der
-states_159:
-  name: Devon
-  country_id: "213"
-  id: "159"
+- name: Devon
+  country_id: '213'
+  id: '159'
   abbr: Dev
-states_160:
-  name: Doncaster
-  country_id: "213"
-  id: "160"
+- name: Doncaster
+  country_id: '213'
+  id: '160'
   abbr: Don
-states_161:
-  name: Dorset
-  country_id: "213"
-  id: "161"
+- name: Dorset
+  country_id: '213'
+  id: '161'
   abbr: Dor
-states_162:
-  name: Down
-  country_id: "213"
-  id: "162"
+- name: Down
+  country_id: '213'
+  id: '162'
   abbr: Dow
-states_163:
-  name: Dudley
-  country_id: "213"
-  id: "163"
+- name: Dudley
+  country_id: '213'
+  id: '163'
   abbr: Dud
-states_164:
-  name: Dumfries and Galloway
-  country_id: "213"
-  id: "164"
+- name: Dumfries and Galloway
+  country_id: '213'
+  id: '164'
   abbr: DaG
-states_165:
-  name: Dundee City
-  country_id: "213"
-  id: "165"
+- name: Dundee City
+  country_id: '213'
+  id: '165'
   abbr: Dun
-states_166:
-  name: Dungannon
-  country_id: "213"
-  id: "166"
+- name: Dungannon
+  country_id: '213'
+  id: '166'
   abbr: Dgn
-states_167:
-  name: East Ayrshire
-  country_id: "213"
-  id: "167"
+- name: East Ayrshire
+  country_id: '213'
+  id: '167'
   abbr: EAy
-states_168:
-  name: East Dunbartonshire
-  country_id: "213"
-  id: "168"
+- name: East Dunbartonshire
+  country_id: '213'
+  id: '168'
   abbr: EDu
-states_169:
-  name: East Lothian
-  country_id: "213"
-  id: "169"
+- name: East Lothian
+  country_id: '213'
+  id: '169'
   abbr: ELo
-states_170:
-  name: East Renfrewshire
-  country_id: "213"
-  id: "170"
+- name: East Renfrewshire
+  country_id: '213'
+  id: '170'
   abbr: ERe
-states_171:
-  name: East Riding of Yorkshire
-  country_id: "213"
-  id: "171"
+- name: East Riding of Yorkshire
+  country_id: '213'
+  id: '171'
   abbr: ERY
-states_172:
-  name: East Sussex
-  country_id: "213"
-  id: "172"
+- name: East Sussex
+  country_id: '213'
+  id: '172'
   abbr: ESu
-states_173:
-  name: Eilean Siar
-  country_id: "213"
-  id: "173"
+- name: Eilean Siar
+  country_id: '213'
+  id: '173'
   abbr: Eil
-states_174:
-  name: Essex
-  country_id: "213"
-  id: "174"
+- name: Essex
+  country_id: '213'
+  id: '174'
   abbr: Ess
-states_175:
-  name: Falkirk
-  country_id: "213"
-  id: "175"
+- name: Falkirk
+  country_id: '213'
+  id: '175'
   abbr: Fal
-states_176:
-  name: Fife
-  country_id: "213"
-  id: "176"
+- name: Fife
+  country_id: '213'
+  id: '176'
   abbr: Fif
-states_177:
-  name: Flintshire
-  country_id: "213"
-  id: "177"
+- name: Flintshire
+  country_id: '213'
+  id: '177'
   abbr: Fli
-states_178:
-  name: Gateshead
-  country_id: "213"
-  id: "178"
+- name: Gateshead
+  country_id: '213'
+  id: '178'
   abbr: Gat
-states_179:
-  name: Glasgow City
-  country_id: "213"
-  id: "179"
+- name: Glasgow City
+  country_id: '213'
+  id: '179'
   abbr: Gla
-states_180:
-  name: Gloucestershire
-  country_id: "213"
-  id: "180"
+- name: Gloucestershire
+  country_id: '213'
+  id: '180'
   abbr: Glo
-states_181:
-  name: Greater London
-  country_id: "213"
-  id: "181"
+- name: Greater London
+  country_id: '213'
+  id: '181'
   abbr: GLn
-states_182:
-  name: Greater Manchester
-  country_id: "213"
-  id: "182"
+- name: Greater Manchester
+  country_id: '213'
+  id: '182'
   abbr: GMn
-states_183:
-  name: Guernsey
-  country_id: "213"
-  id: "183"
+- name: Guernsey
+  country_id: '213'
+  id: '183'
   abbr: Gue
-states_184:
-  name: Gwynedd
-  country_id: "213"
-  id: "184"
+- name: Gwynedd
+  country_id: '213'
+  id: '184'
   abbr: Gwy
-states_185:
-  name: Halton
-  country_id: "213"
-  id: "185"
+- name: Halton
+  country_id: '213'
+  id: '185'
   abbr: Hal
-states_186:
-  name: Hampshire
-  country_id: "213"
-  id: "186"
+- name: Hampshire
+  country_id: '213'
+  id: '186'
   abbr: Ham
-states_187:
-  name: Hartlepool
-  country_id: "213"
-  id: "187"
+- name: Hartlepool
+  country_id: '213'
+  id: '187'
   abbr: Har
-states_188:
-  name: Hertford
-  country_id: "213"
-  id: "188"
+- name: Hertford
+  country_id: '213'
+  id: '188'
   abbr: Her
-states_189:
-  name: Hertfordshire
-  country_id: "213"
-  id: "189"
+- name: Hertfordshire
+  country_id: '213'
+  id: '189'
   abbr: Hfs
-states_190:
-  name: Highland
-  country_id: "213"
-  id: "190"
+- name: Highland
+  country_id: '213'
+  id: '190'
   abbr: Hig
-states_191:
-  name: Isle of Man
-  country_id: "213"
-  id: "191"
+- name: Isle of Man
+  country_id: '213'
+  id: '191'
   abbr: IOM
-states_192:
-  name: Inverclyde
-  country_id: "213"
-  id: "192"
+- name: Inverclyde
+  country_id: '213'
+  id: '192'
   abbr: Ivc
-states_193:
-  name: Inverness-shire
-  country_id: "213"
-  id: "193"
+- name: Inverness-shire
+  country_id: '213'
+  id: '193'
   abbr: Inv
-states_194:
-  name: Isle Of Wight
-  country_id: "213"
-  id: "194"
+- name: Isle Of Wight
+  country_id: '213'
+  id: '194'
   abbr: IWi
-states_195:
-  name: Isle of Anglesey
-  country_id: "213"
-  id: "195"
+- name: Isle of Anglesey
+  country_id: '213'
+  id: '195'
   abbr: IAn
-states_196:
-  name: Isles Of Scilly
-  country_id: "213"
-  id: "196"
+- name: Isles Of Scilly
+  country_id: '213'
+  id: '196'
   abbr: ISc
-states_197:
-  name: Jersey
-  country_id: "213"
-  id: "197"
+- name: Jersey
+  country_id: '213'
+  id: '197'
   abbr: Jer
-states_198:
-  name: Kent
-  country_id: "213"
-  id: "198"
+- name: Kent
+  country_id: '213'
+  id: '198'
   abbr: Ken
-states_199:
-  name: Kirklees
-  country_id: "213"
-  id: "199"
+- name: Kirklees
+  country_id: '213'
+  id: '199'
   abbr: Kir
-states_200:
-  name: Knowsley
-  country_id: "213"
-  id: "200"
+- name: Knowsley
+  country_id: '213'
+  id: '200'
   abbr: Kno
-states_201:
-  name: Lancashire
-  country_id: "213"
-  id: "201"
+- name: Lancashire
+  country_id: '213'
+  id: '201'
   abbr: Lan
-states_202:
-  name: Larne
-  country_id: "213"
-  id: "202"
+- name: Larne
+  country_id: '213'
+  id: '202'
   abbr: Lar
-states_203:
-  name: Leeds
-  country_id: "213"
-  id: "203"
+- name: Leeds
+  country_id: '213'
+  id: '203'
   abbr: Lee
-states_204:
-  name: Leicester
-  country_id: "213"
-  id: "204"
+- name: Leicester
+  country_id: '213'
+  id: '204'
   abbr: Lei
-states_205:
-  name: Leicestershire
-  country_id: "213"
-  id: "205"
+- name: Leicestershire
+  country_id: '213'
+  id: '205'
   abbr: Lcs
-states_206:
-  name: Limavady
-  country_id: "213"
-  id: "206"
+- name: Limavady
+  country_id: '213'
+  id: '206'
   abbr: Lim
-states_207:
-  name: Lincolnshire
-  country_id: "213"
-  id: "207"
+- name: Lincolnshire
+  country_id: '213'
+  id: '207'
   abbr: Lin
-states_208:
-  name: Lisburn
-  country_id: "213"
-  id: "208"
+- name: Lisburn
+  country_id: '213'
+  id: '208'
   abbr: Lis
-states_209:
-  name: Liverpool
-  country_id: "213"
-  id: "209"
+- name: Liverpool
+  country_id: '213'
+  id: '209'
   abbr: Liv
-states_210:
-  name: London
-  country_id: "213"
-  id: "210"
+- name: London
+  country_id: '213'
+  id: '210'
   abbr: Lon
-states_211:
-  name: Luton
-  country_id: "213"
-  id: "211"
+- name: Luton
+  country_id: '213'
+  id: '211'
   abbr: Lut
-states_212:
-  name: Magherafelt
-  country_id: "213"
-  id: "212"
+- name: Magherafelt
+  country_id: '213'
+  id: '212'
   abbr: Mag
-states_213:
-  name: Medway
-  country_id: "213"
-  id: "213"
+- name: Medway
+  country_id: '213'
+  id: '213'
   abbr: Med
-states_214:
-  name: Merthyr Tydfil
-  country_id: "213"
-  id: "214"
+- name: Merthyr Tydfil
+  country_id: '213'
+  id: '214'
   abbr: Mer
-states_215:
-  name: Middlesbrough
-  country_id: "213"
-  id: "215"
+- name: Middlesbrough
+  country_id: '213'
+  id: '215'
   abbr: Mdb
-states_216:
-  name: Midlothian
-  country_id: "213"
-  id: "216"
+- name: Midlothian
+  country_id: '213'
+  id: '216'
   abbr: Mdl
-states_217:
-  name: Milton Keynes
-  country_id: "213"
-  id: "217"
+- name: Milton Keynes
+  country_id: '213'
+  id: '217'
   abbr: Mil
-states_218:
-  name: Monmouthshire
-  country_id: "213"
-  id: "218"
+- name: Monmouthshire
+  country_id: '213'
+  id: '218'
   abbr: Mon
-states_219:
-  name: Moray
-  country_id: "213"
-  id: "219"
+- name: Moray
+  country_id: '213'
+  id: '219'
   abbr: Mor
-states_220:
-  name: Moyle
-  country_id: "213"
-  id: "220"
+- name: Moyle
+  country_id: '213'
+  id: '220'
   abbr: Moy
-states_221:
-  name: Neath Port Talbot
-  country_id: "213"
-  id: "221"
+- name: Neath Port Talbot
+  country_id: '213'
+  id: '221'
   abbr: Nea
-states_222:
-  name: Newcastle Upon Tyne
-  country_id: "213"
-  id: "222"
+- name: Newcastle Upon Tyne
+  country_id: '213'
+  id: '222'
   abbr: Nwc
-states_223:
-  name: Newport
-  country_id: "213"
-  id: "223"
+- name: Newport
+  country_id: '213'
+  id: '223'
   abbr: Npt
-states_224:
-  name: Newry and Mourne
-  country_id: "213"
-  id: "224"
+- name: Newry and Mourne
+  country_id: '213'
+  id: '224'
   abbr: NaM
-states_225:
-  name: Newtownabbey
-  country_id: "213"
-  id: "225"
+- name: Newtownabbey
+  country_id: '213'
+  id: '225'
   abbr: Nta
-states_226:
-  name: Norfolk
-  country_id: "213"
-  id: "226"
+- name: Norfolk
+  country_id: '213'
+  id: '226'
   abbr: Nor
-states_227:
-  name: North Ayrshire
-  country_id: "213"
-  id: "227"
+- name: North Ayrshire
+  country_id: '213'
+  id: '227'
   abbr: NAy
-states_228:
-  name: North Down
-  country_id: "213"
-  id: "228"
+- name: North Down
+  country_id: '213'
+  id: '228'
   abbr: NDo
-states_229:
-  name: North East Lincolnshire
-  country_id: "213"
-  id: "229"
+- name: North East Lincolnshire
+  country_id: '213'
+  id: '229'
   abbr: NEL
-states_230:
-  name: North Lanarkshire
-  country_id: "213"
-  id: "230"
+- name: North Lanarkshire
+  country_id: '213'
+  id: '230'
   abbr: NLa
-states_231:
-  name: North Lincolnshire
-  country_id: "213"
-  id: "231"
+- name: North Lincolnshire
+  country_id: '213'
+  id: '231'
   abbr: NLi
-states_232:
-  name: North Somerset
-  country_id: "213"
-  id: "232"
+- name: North Somerset
+  country_id: '213'
+  id: '232'
   abbr: NSo
-states_233:
-  name: North Tyneside
-  country_id: "213"
-  id: "233"
+- name: North Tyneside
+  country_id: '213'
+  id: '233'
   abbr: Nor
-states_234:
-  name: North Yorkshire
-  country_id: "213"
-  id: "234"
+- name: North Yorkshire
+  country_id: '213'
+  id: '234'
   abbr: NYo
-states_235:
-  name: Northamptonshire
-  country_id: "213"
-  id: "235"
+- name: Northamptonshire
+  country_id: '213'
+  id: '235'
   abbr: Nts
-states_236:
-  name: Northumberland
-  country_id: "213"
-  id: "236"
+- name: Northumberland
+  country_id: '213'
+  id: '236'
   abbr: Ntb
-states_237:
-  name: Nottingham
-  country_id: "213"
-  id: "237"
+- name: Nottingham
+  country_id: '213'
+  id: '237'
   abbr: Not
-states_238:
-  name: Nottinghamshire
-  country_id: "213"
-  id: "238"
+- name: Nottinghamshire
+  country_id: '213'
+  id: '238'
   abbr: Not
-states_239:
-  name: Oldham
-  country_id: "213"
-  id: "239"
+- name: Oldham
+  country_id: '213'
+  id: '239'
   abbr: Old
-states_240:
-  name: Omagh
-  country_id: "213"
-  id: "240"
+- name: Omagh
+  country_id: '213'
+  id: '240'
   abbr: Oma
-states_241:
-  name: Orkney Islands
-  country_id: "213"
-  id: "241"
+- name: Orkney Islands
+  country_id: '213'
+  id: '241'
   abbr: Ork
-states_242:
-  name: Oxfordshire
-  country_id: "213"
-  id: "242"
+- name: Oxfordshire
+  country_id: '213'
+  id: '242'
   abbr: Oxf
-states_243:
-  name: Pembrokeshire
-  country_id: "213"
-  id: "243"
+- name: Pembrokeshire
+  country_id: '213'
+  id: '243'
   abbr: Pem
-states_244:
-  name: Perth and Kinross
-  country_id: "213"
-  id: "244"
+- name: Perth and Kinross
+  country_id: '213'
+  id: '244'
   abbr: Per
-states_245:
-  name: Peterborough
-  country_id: "213"
-  id: "245"
+- name: Peterborough
+  country_id: '213'
+  id: '245'
   abbr: Pet
-states_246:
-  name: Plymouth
-  country_id: "213"
-  id: "246"
+- name: Plymouth
+  country_id: '213'
+  id: '246'
   abbr: Ply
-states_247:
-  name: Poole
-  country_id: "213"
-  id: "247"
+- name: Poole
+  country_id: '213'
+  id: '247'
   abbr: Poo
-states_248:
-  name: Portsmouth
-  country_id: "213"
-  id: "248"
+- name: Portsmouth
+  country_id: '213'
+  id: '248'
   abbr: Por
-states_249:
-  name: Powys
-  country_id: "213"
-  id: "249"
+- name: Powys
+  country_id: '213'
+  id: '249'
   abbr: Pow
-states_250:
-  name: Reading
-  country_id: "213"
-  id: "250"
+- name: Reading
+  country_id: '213'
+  id: '250'
   abbr: Rea
-states_251:
-  name: Redcar and Cleveland
-  country_id: "213"
-  id: "251"
+- name: Redcar and Cleveland
+  country_id: '213'
+  id: '251'
   abbr: Red
-states_252:
-  name: Renfrewshire
-  country_id: "213"
-  id: "252"
+- name: Renfrewshire
+  country_id: '213'
+  id: '252'
   abbr: Ren
-states_253:
-  name: Rhondda Cynon Taff
-  country_id: "213"
-  id: "253"
+- name: Rhondda Cynon Taff
+  country_id: '213'
+  id: '253'
   abbr: Rho
-states_254:
-  name: Rochdale
-  country_id: "213"
-  id: "254"
+- name: Rochdale
+  country_id: '213'
+  id: '254'
   abbr: Roc
-states_255:
-  name: Rotherham
-  country_id: "213"
-  id: "255"
+- name: Rotherham
+  country_id: '213'
+  id: '255'
   abbr: Rot
-states_256:
-  name: Rutland
-  country_id: "213"
-  id: "256"
+- name: Rutland
+  country_id: '213'
+  id: '256'
   abbr: Rut
-states_257:
-  name: Salford
-  country_id: "213"
-  id: "257"
+- name: Salford
+  country_id: '213'
+  id: '257'
   abbr: Sal
-states_258:
-  name: Sandwell
-  country_id: "213"
-  id: "258"
+- name: Sandwell
+  country_id: '213'
+  id: '258'
   abbr: San
-states_259:
-  name: Sefton
-  country_id: "213"
-  id: "259"
+- name: Sefton
+  country_id: '213'
+  id: '259'
   abbr: Sef
-states_260:
-  name: Sheffield
-  country_id: "213"
-  id: "260"
+- name: Sheffield
+  country_id: '213'
+  id: '260'
   abbr: She
-states_261:
-  name: Shetland Islands
-  country_id: "213"
-  id: "261"
+- name: Shetland Islands
+  country_id: '213'
+  id: '261'
   abbr: SIs
-states_262:
-  name: Shropshire
-  country_id: "213"
-  id: "262"
+- name: Shropshire
+  country_id: '213'
+  id: '262'
   abbr: Shr
-states_263:
-  name: Slough
-  country_id: "213"
-  id: "263"
+- name: Slough
+  country_id: '213'
+  id: '263'
   abbr: Slo
-states_264:
-  name: Solihull
-  country_id: "213"
-  id: "264"
+- name: Solihull
+  country_id: '213'
+  id: '264'
   abbr: Sol
-states_265:
-  name: Somerset
-  country_id: "213"
-  id: "265"
+- name: Somerset
+  country_id: '213'
+  id: '265'
   abbr: Som
-states_266:
-  name: South Ayrshire
-  country_id: "213"
-  id: "266"
+- name: South Ayrshire
+  country_id: '213'
+  id: '266'
   abbr: SAy
-states_267:
-  name: South Gloucestershire
-  country_id: "213"
-  id: "267"
+- name: South Gloucestershire
+  country_id: '213'
+  id: '267'
   abbr: SGl
-states_268:
-  name: South Lanarkshire
-  country_id: "213"
-  id: "268"
+- name: South Lanarkshire
+  country_id: '213'
+  id: '268'
   abbr: SLan
-states_269:
-  name: South Tyneside
-  country_id: "213"
-  id: "269"
+- name: South Tyneside
+  country_id: '213'
+  id: '269'
   abbr: STy
-states_270:
-  name: Southampton
-  country_id: "213"
-  id: "270"
+- name: Southampton
+  country_id: '213'
+  id: '270'
   abbr: Sou
-states_271:
-  name: Southend-on-Sea
-  country_id: "213"
-  id: "271"
+- name: Southend-on-Sea
+  country_id: '213'
+  id: '271'
   abbr: SSe
-states_272:
-  name: St Helens
-  country_id: "213"
-  id: "272"
-  abbr: StH 
-states_273:
-  name: Staffordshire
-  country_id: "213"
-  id: "273"
+- name: St Helens
+  country_id: '213'
+  id: '272'
+  abbr: StH
+- name: Staffordshire
+  country_id: '213'
+  id: '273'
   abbr: Sta
-states_274:
-  name: Stirling
-  country_id: "213"
-  id: "274"
+- name: Stirling
+  country_id: '213'
+  id: '274'
   abbr: Sti
-states_275:
-  name: Stockport
-  country_id: "213"
-  id: "275"
+- name: Stockport
+  country_id: '213'
+  id: '275'
   abbr: Sto
-states_276:
-  name: Stockton-on-Tees
-  country_id: "213"
-  id: "276"
+- name: Stockton-on-Tees
+  country_id: '213'
+  id: '276'
   abbr: STe
-states_277:
-  name: Stoke-on-Trent
-  country_id: "213"
-  id: "277"
+- name: Stoke-on-Trent
+  country_id: '213'
+  id: '277'
   abbr: STr
-states_278:
-  name: Strabane
-  country_id: "213"
-  id: "278"
+- name: Strabane
+  country_id: '213'
+  id: '278'
   abbr: Str
-states_279:
-  name: Suffolk
-  country_id: "213"
-  id: "279"
+- name: Suffolk
+  country_id: '213'
+  id: '279'
   abbr: Suf
-states_280:
-  name: Sunderland
-  country_id: "213"
-  id: "280"
+- name: Sunderland
+  country_id: '213'
+  id: '280'
   abbr: Sun
-states_281:
-  name: Surrey
-  country_id: "213"
-  id: "281"
+- name: Surrey
+  country_id: '213'
+  id: '281'
   abbr: Sur
-states_282:
-  name: Swansea
-  country_id: "213"
-  id: "282"
+- name: Swansea
+  country_id: '213'
+  id: '282'
   abbr: Swa
-states_283:
-  name: Swindon
-  country_id: "213"
-  id: "283"
+- name: Swindon
+  country_id: '213'
+  id: '283'
   abbr: Swi
-states_284:
-  name: Tameside
-  country_id: "213"
-  id: "284"
+- name: Tameside
+  country_id: '213'
+  id: '284'
   abbr: Tam
-states_285:
-  name: Telford and Wrekin
-  country_id: "213"
-  id: "285"
+- name: Telford and Wrekin
+  country_id: '213'
+  id: '285'
   abbr: Tel
-states_286:
-  name: The Scottish Borders
-  country_id: "213"
-  id: "286"
+- name: The Scottish Borders
+  country_id: '213'
+  id: '286'
   abbr: TSB
-states_287:
-  name: The Vale of Glamorgan
-  country_id: "213"
-  id: "287"
+- name: The Vale of Glamorgan
+  country_id: '213'
+  id: '287'
   abbr: TVG
-states_288:
-  name: Thurrock
-  country_id: "213"
-  id: "288"
+- name: Thurrock
+  country_id: '213'
+  id: '288'
   abbr: Thu
-states_289:
-  name: Torbay
-  country_id: "213"
-  id: "289"
+- name: Torbay
+  country_id: '213'
+  id: '289'
   abbr: Tor
-states_290:
-  name: Torfaen
-  country_id: "213"
-  id: "290"
+- name: Torfaen
+  country_id: '213'
+  id: '290'
   abbr: Trf
-states_291:
-  name: Trafford
-  country_id: "213"
-  id: "291"
+- name: Trafford
+  country_id: '213'
+  id: '291'
   abbr: Tra
-states_292:
-  name: Wakefield
-  country_id: "213"
-  id: "292"
+- name: Wakefield
+  country_id: '213'
+  id: '292'
   abbr: Wak
-states_293:
-  name: Walsall
-  country_id: "213"
-  id: "293"
+- name: Walsall
+  country_id: '213'
+  id: '293'
   abbr: Wal
-states_294:
-  name: Warrington
-  country_id: "213"
-  id: "294"
+- name: Warrington
+  country_id: '213'
+  id: '294'
   abbr: War
-states_295:
-  name: Warwickshire
-  country_id: "213"
-  id: "295"
+- name: Warwickshire
+  country_id: '213'
+  id: '295'
   abbr: Wrk
-states_296:
-  name: West Berkshire
-  country_id: "213"
-  id: "296"
+- name: West Berkshire
+  country_id: '213'
+  id: '296'
   abbr: WBe
-states_297:
-  name: West Dunbartonshire
-  country_id: "213"
-  id: "297"
+- name: West Dunbartonshire
+  country_id: '213'
+  id: '297'
   abbr: WDu
-states_298:
-  name: West Lothian
-  country_id: "213"
-  id: "298"
+- name: West Lothian
+  country_id: '213'
+  id: '298'
   abbr: WLo
-states_299:
-  name: West Sussex
-  country_id: "213"
-  id: "299"
+- name: West Sussex
+  country_id: '213'
+  id: '299'
   abbr: WSu
-states_300:
-  name: Wigan
-  country_id: "213"
-  id: "300"
+- name: Wigan
+  country_id: '213'
+  id: '300'
   abbr: Wig
-states_301:
-  name: Wiltshire
-  country_id: "213"
-  id: "301"
+- name: Wiltshire
+  country_id: '213'
+  id: '301'
   abbr: Wil
-states_302:
-  name: Windsor and Maidenhead
-  country_id: "213"
-  id: "302"
+- name: Windsor and Maidenhead
+  country_id: '213'
+  id: '302'
   abbr: Win
-states_303:
-  name: Wirral
-  country_id: "213"
-  id: "303"
+- name: Wirral
+  country_id: '213'
+  id: '303'
   abbr: Wir
-states_304:
-  name: Wokingham
-  country_id: "213"
-  id: "304"
+- name: Wokingham
+  country_id: '213'
+  id: '304'
   abbr: Wok
-states_305:
-  name: Wolverhampton
-  country_id: "213"
-  id: "305"
+- name: Wolverhampton
+  country_id: '213'
+  id: '305'
   abbr: Wol
-states_306:
-  name: Worcester
-  country_id: "213"
-  id: "306"
+- name: Worcester
+  country_id: '213'
+  id: '306'
   abbr: Wor
-states_307:
-  name: Worcestershire
-  country_id: "213"
-  id: "307"
+- name: Worcestershire
+  country_id: '213'
+  id: '307'
   abbr: Wrs
-states_308:
-  name: Wrexham
-  country_id: "213"
-  id: "308"
+- name: Wrexham
+  country_id: '213'
+  id: '308'
   abbr: Wre
-states_309:
-  name: York
-  country_id: "213"
-  id: "309"
+- name: York
+  country_id: '213'
+  id: '309'
   abbr: Yor
