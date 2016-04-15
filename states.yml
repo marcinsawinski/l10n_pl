@@ -147,19 +147,19 @@
   country_id: '213'
   id: '137'
   abbr: CWC
-- name: City of Bristol
+- name: Bristol, City of
   country_id: '213'
   id: '138'
-  abbr: CBr
-- name: City of Edinburgh
+  abbr: BRS
+- name: Edinburgh, City of
   country_id: '213'
   id: '139'
-  abbr: CEd
-- name: City of Kingston-upon-Hull
+  abbr: EDB
+- name: Kingston-upon-Hull, City of
   country_id: '213'
   id: '140'
-  abbr: CKH
-- name: City of London
+  abbr: KUH
+- name: London, City of
   country_id: '213'
   id: '141'
   abbr: CLn
@@ -183,22 +183,22 @@
   country_id: '213'
   id: '146'
   abbr: Cor
-- name: County Armagh
+- name: Armagh, County
   country_id: '213'
   id: '147'
-  abbr: CAr
-- name: County Durham
+  abbr: ArC
+- name: Durham, County
   country_id: '213'
   id: '148'
-  abbr: CDu
-- name: County Fermanagh
+  abbr: Dur
+- name: Fermanagh, County
   country_id: '213'
   id: '149'
-  abbr: CFe
-- name: County of Herefordshire
+  abbr: FER
+- name: Herefordshire, County of
   country_id: '213'
   id: '150'
-  abbr: CHe
+  abbr: HEF
 - name: Coventry
   country_id: '213'
   id: '151'
